@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CredProject</string>
+    <string name="how_much_do_you_want_to_pay">How much do you want to pay?</string>
+    <string name="submit">Submit</string>
+    <string name="continuew">Continue</string>
+    <string name="send_the_money">Send the money?</string>
+    <string name="hdfc_bank">HDFC Bank</string>
+    <string name="pnb_bank">PNB Bank</string>
+    <string name="idfc_bank">IDFC Bank</string>
+    <string name="choose_payment_option">Choose Payment Option</string>
+</resources>
